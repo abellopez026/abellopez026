@@ -1,4 +1,4 @@
-# :wave: Hi, Im Abel Lopez :sunglasses:
+# :wave: Hi, Im Abel López :sunglasses:
 
 ## About me
 
@@ -27,20 +27,20 @@ A list of my knowledge, skills, languages ​​and technologies that I know or 
 ## My Social Networks 
 
 <div>
-  <a href="https://www.facebook.com/abellopez026"> 
-    <img src="https://img.shields.io/badge/Facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"> </img>
+  <a href="https://www.facebook.com/abellopez026" target="_blank"> 
+    <img src="https://img.shields.io/badge/Facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=white"> </img>
   </a>
-  <a href="https://www.twitter.com/abellopez026"> 
-    <img src="https://img.shields.io/badge/Twitter-3366ff?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </img>
+  <a href="https://www.twitter.com/abellopez026" target="_blank"> 
+    <img src="https://img.shields.io/badge/Twitter-3366ff?style=for-the-badge&logo=twitter&logoColor=white"> </img>
   </a>
-  <a href="mailto:contact@abel-lopez.tech"> 
-    <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </img>
+  <a href="mailto:contact@abel-lopez.tech" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"> </img>
   </a>
-  <a href="https://www.t.me/abellopez026"> 
-    <img src="https://img.shields.io/badge/Telegram-6699ff?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"> </img>
+  <a href="https://www.t.me/abellopez026" target="_blank"> 
+    <img src="https://img.shields.io/badge/Telegram-6699ff?style=for-the-badge&logo=telegram&logoColor=white"> </img>
   </a>
-  <a href="https://www.linkedin.com/in/abellopez026"> 
-    <img src="https://img.shields.io/badge/Linkedin-0066ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </img>
+  <a href="https://www.linkedin.com/in/abellopez026" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linkedin-0066ff?style=for-the-badge&logo=linkedin&logoColor=white"> </img>
   </a>
   
 </div>
