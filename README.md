@@ -1,4 +1,5 @@
-# :wave: Hi, Im Abel López :sunglasses:
+# Hi, I'm Abel López :sunglasses: </p>
+
 
 ## About me
 
@@ -18,6 +19,7 @@ A list of my knowledge, skills, languages ​​and technologies that I know or 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
@@ -45,12 +47,15 @@ A list of my knowledge, skills, languages ​​and technologies that I know or 
   
 </div>
 
-## My recent projects 
+## My favorite & personal projects 
 
 <div>
   <a href="https://github.com/abellopez026/erp_laravel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abellopez026&repo=erp_laravel&theme=radical" />
-</a>
+  </a>
+  <a href="https://github.com/abellopez026/myerpapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abellopez026&repo=myerpapp&theme=radical" />
+  </a>
 </div>
 
 ## My Statistics
