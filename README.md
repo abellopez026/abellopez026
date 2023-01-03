@@ -41,9 +41,6 @@ A list of my knowledge, skills, languages ​​and technologies that I know or 
   <a href="https://www.t.me/abellopez026" target="_blank"> 
     <img src="https://img.shields.io/badge/Telegram-6699ff?style=for-the-badge&logo=telegram&logoColor=white"> </img>
   </a>
-  <a href="https://www.linkedin.com/in/abellopez026" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linkedin-0066ff?style=for-the-badge&logo=linkedin&logoColor=white"> </img>
-  </a>
   
 </div>
 
@@ -54,7 +51,7 @@ A list of my knowledge, skills, languages ​​and technologies that I know or 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abellopez026&repo=erp_laravel&theme=radical" />
   </a>
   <a href="https://github.com/abellopez026/myerpapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abellopez026&repo=myerpapp&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abellopez026&repo=mybusinessapp&theme=radical" />
   </a>
 </div>
 
